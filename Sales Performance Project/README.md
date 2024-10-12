@@ -1,3 +1,5 @@
+# Sales Performance Dashboard
+
 This project analyzes the sales performance of various product categories, including phones, clothing, and accessories. 
 
 Using Power BI, the interactive dashboard visualizes key performance indicators (KPIs) such as total cost, total quantity, total revenue, and profit or loss. It also highlights product sub-categories by profit and shows customer payment preferences (cash, POS, and others). 
