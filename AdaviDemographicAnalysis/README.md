@@ -27,7 +27,11 @@ A bar chart was used to illustrate the income by religion visually which shows i
 
 •	**Tax by Employment Status:** 
 
-The tax by employment status explains how tax contributions are distributed across different employment categories, such as employed, unemployed, and self-employed. This helps stakeholders understand each group's financial impact on the city's tax revenue.
+The tax breakdown by employment status shows that men contribute more in taxes across employed, unemployed, and self-employed categories compared to women. This suggests that men have higher representation or income in these groups.
+
+ The gender disparity offers insights into economic participation and financial burden, helping stakeholders make decisions on tax policies, employment programs, and initiatives aimed at addressing gender inequality.
+ 
+  It also aids in forecasting tax revenue and improving gender balance in economic participation.
 
 •	**Number of Children by gender:** 
 
