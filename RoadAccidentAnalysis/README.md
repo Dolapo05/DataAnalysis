@@ -63,6 +63,7 @@ Additionally, improving infrastructure, such as better signage and road design, 
 
 Lastly, implementing stricter enforcement of traffic regulations during daylight hours, when most accidents happen, would help address the issue of overconfidence and reduce overall casualties.
 
+ ![Dashboard](RoadAccidentAnalysis1.png)
 
- ![Dashboard](RoadAccidentAnalysis.png)
+
  

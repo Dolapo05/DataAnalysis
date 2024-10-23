@@ -52,4 +52,6 @@ The creation of this dashboard involved a good understanding of Excel, data clea
 Regularly updating the analysis to reflect changing demographics and engaging stakeholders in the interpretation of results will ensure that insights remain relevant and actionable for decision-making.
 
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
+
+
